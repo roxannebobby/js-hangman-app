@@ -1,4 +1,4 @@
-#Javascript Hangman Game
+Javascript Hangman Game
 
 This project uses HTML, CSS and Javascript to develop a hangman game. SVG is used to create the graphics, with javascript for selecting letters and notifications.
 
